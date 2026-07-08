@@ -1,0 +1,18 @@
+{
+  "welcome": "Welcome to AI Website Builder",
+  "dashboard": "Dashboard",
+  "builder": "Builder",
+  "login": "Log In",
+  "signup": "Sign Up",
+  "generate": "Generate with AI",
+  "dragAndDrop": "Drag and Drop components here",
+  "settings": "Settings",
+  "save": "Save",
+  "publish": "Publish",
+  "preview": "Preview",
+  "undo": "Undo",
+  "redo": "Redo",
+  "components": "Components",
+  "templates": "Templates",
+  "pricing": "Pricing"
+}

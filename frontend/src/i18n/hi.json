@@ -1,0 +1,18 @@
+{
+  "welcome": "AI Website Builder में आपका स्वागत है",
+  "dashboard": "डैशबोर्ड",
+  "builder": "बिल्डर",
+  "login": "लॉग इन करें",
+  "signup": "साइन अप करें",
+  "generate": "AI के साथ बनाएं",
+  "dragAndDrop": "यहां कॉम्पोनेंट्स को ड्रैग और ड्रॉप करें",
+  "settings": "सेटिंग्स",
+  "save": "सेव करें",
+  "publish": "पब्लिश करें",
+  "preview": "प्रीव्यू",
+  "undo": "अंडू",
+  "redo": "रीडू",
+  "components": "कॉम्पोनेंट्स",
+  "templates": "टेम्पलेट्स",
+  "pricing": "प्राइसिंग"
+}

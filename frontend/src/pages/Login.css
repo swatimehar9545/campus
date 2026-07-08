@@ -1,0 +1,148 @@
+.login-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0B0F19;
+  font-family: 'Inter', sans-serif;
+}
+
+.login-card {
+  background: #111520;
+  border: 1px solid #1F2937;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 400px;
+  padding: 40px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+.login-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.login-logo {
+  width: 48px;
+  height: 48px;
+  background: white;
+  border-radius: 50%;
+  margin: 0 auto 16px;
+  padding: 4px;
+}
+
+.login-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.login-header h2 {
+  color: #F8FAFC;
+  font-size: 24px;
+  margin: 0 0 8px 0;
+}
+
+.login-header p {
+  color: #94A3B8;
+  font-size: 14px;
+  margin: 0;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.form-group label {
+  color: #E2E8F0;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.form-group input {
+  background: #0B0F19;
+  border: 1px solid #1F2937;
+  color: #F8FAFC;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.form-group input:focus {
+  border-color: #5A4AF0;
+}
+
+.form-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+}
+
+.remember-me {
+  color: #94A3B8;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.forgot-password {
+  color: #5A4AF0;
+  text-decoration: none;
+}
+
+.login-submit-btn {
+  background: #5A4AF0;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background 0.2s;
+}
+
+.login-submit-btn:hover {
+  background: #4A3AD0;
+}
+
+.login-footer {
+  text-align: center;
+  margin-top: 24px;
+  color: #94A3B8;
+  font-size: 14px;
+}
+
+.login-footer a {
+  color: #5A4AF0;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.login-back {
+  text-align: center;
+  margin-top: 24px;
+}
+
+.login-back a {
+  color: #64748B;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.login-back a:hover {
+  color: #94A3B8;
+}
